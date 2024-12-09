@@ -6,9 +6,9 @@
 
 🚀 My research interests include **machine learning for speech processing**, **deep learning in computer vision**, **LLMs in semiconductor applications**, and **data science**, particularly in commercial applications.
 
-🌱 I’m actively expanding my knowledge in **operating systems** and **parallel computing**.
+🌱 I’m actively expanding my knowledge in **Web technology**, **operating systems** and **parallel computing**.
 
-📫 Want to connect? Feel free to visit my [LinkedIn](#) and send me a DM!
+📫 Want to connect? Feel free to visit my [LinkedIn](https://www.linkedin.com/in/kuan-yi-gary-lee/) and send me a DM!
 
 
 # My GitHub Stats
