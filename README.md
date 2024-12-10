@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub!
 
-👋 Hi, I'm **Gary**, a fourth-year student majoring in **Electrical Engineering** at **National Taiwan University**, and currently a deep learning engineer intern at **MediaTek Research**.
+👋 Hi, I'm **Gary**, a fourth-year student majoring in **Electrical Engineering** at **National Taiwan University**, and currently a Deep Learning Engineer Intern at **MediaTek Research**.
 
 🚀 My research interests include **machine learning for speech processing**, **deep learning in computer vision**, **LLMs in semiconductor applications**, and **data science**, particularly in commercial applications.
 
