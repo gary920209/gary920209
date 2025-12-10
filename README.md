@@ -13,7 +13,6 @@
 - 🔭  I'm an intern at **MediaTek Research** and **ASUS AI & Cloud Research**
 - 📖  I'm interested in **Deep Learning**, **NLP**, and **Audio Processing**
 - 👨‍💻  I have experience in **Cloud Native Application Development** and **Parallel Programming**
-- ⚡  Check out my works at [lee.guann.yi](https://lee.guann.yi)
 
 ###
 
