@@ -4,7 +4,15 @@ My Website: https://gary920209.github.io/
 
 ###
 
-<p align="left">My name is Kuan-Yi Lee (Gary), a senior student majoring in Electrical Engineering at National Taiwan University (NTU).</p>
+<p align="left">I am currently a Master’s student in Electrical and Computer Engineering at Carnegie Mellon University, specializing in Multimodal LLM and Machine Learning Systems. I received my Bachelor’s degree in EE from National Taiwan University (NTU).
+</p>
+<p align="left">
+I am passionate about leveraging AI to solve real-world problems and drive meaningful impact. As a Founding Engineer, I established an education technology startup focused on developing AI-powered solutions for automated problem-solving, intelligent lecture generation, and various educational applications. Our products have partnered with multiple leading educational institutions across Taiwan.
+</p>
+<p align="left">
+My research interests center on speech and audio intelligence. During my AI research internships at MediaTek and ASUS, I worked on fine-tuning large spoken language models (TASTE) and building Agentic Audio LLMs (Audio-Maestor), aiming to create more natural and interactive voice interfaces.
+
+</p>
 
 ###
 
