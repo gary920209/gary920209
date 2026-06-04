@@ -31,7 +31,7 @@
 * **ML Systems**  
   Cloud-native development ([DCmanager-backend](https://github.com/gary920209/DCmanager-backend)), Parallel programming ([Parallel-Sokoban-Solver](https://github.com/gary920209/DCmanager-backend)), Scalable inference (MediaTek)
 * **AI × Semiconductor**  
-  Wafer detection chat-box (NXP), Digital ic agent (Ultrasystem)
+  Wafer detection chat-box (NXP), Digital IC agent (Ultrasystem)
   
 ## 💼 Experience
 
