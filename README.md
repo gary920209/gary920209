@@ -23,7 +23,7 @@
 ## 🎯 Focus Areas
 
 * **Speech & Audio AI**  
-  Spoken LLMs ([TASTE](https://github.com/mtkresearch/TASTE-SpokenLM)), Agentic Audio ([Audio-Maestro](https://github.com/gary920209/Audio-Maestro)), Speech-To-Text ([Audio-Maestro](https://github.com/gary920209/MultiLingual-TTS-))
+  Spoken LLMs ([TASTE](https://github.com/mtkresearch/TASTE-SpokenLM)), Agentic Audio ([Audio-Maestro](https://github.com/gary920209/Audio-Maestro)), Speech-To-Text ([Interspeech 2025 Challenge](https://github.com/gary920209/MultiLingual-TTS-))
 * **Multimodal LLMs**  
   Cross-modal reasoning ([DLCV](https://github.com/gary920209/Deep_Learning_for_Computer_Vision)), Large model fine-tuning & LoRA ([CVPR 2024 Challenge](https://github.com/gary920209/Deep_Learning_for_Computer_Vision))
 * **AI × EdTech**  
