@@ -32,7 +32,9 @@
   Cloud-native development ([DCmanager-backend](https://github.com/gary920209/DCmanager-backend)), Parallel programming ([Parallel-Sokoban-Solver](https://github.com/gary920209/DCmanager-backend)), Scalable inference (MediaTek)
 * **AI × Semiconductor**  
   Wafer detection chat-box (NXP), Digital IC agent (Ultrasense system)
-  
+* **Backend**  
+   Champion*2 plus Mertis * 1 in Hackathon, Devop @ ML autograding system with 1000+ users
+
 ## 💼 Experience
 
 * **MediaTek Research** — ML Engineer Intern  
