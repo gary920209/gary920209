@@ -2,7 +2,7 @@
 
 # Hey 👋 I'm Gary (Kuan-Yi Lee)
 
-**ECE Master's student @ Carnegie Mellon University** · NTU EE Alumnus · Pittsburgh (USA)
+**Researcher @ Carnegie Mellon's School of Computer Science, ECE Master's student (AI/ML System Concentration) @ Carnegie Mellon University** · NTU EE Alumnus · Pittsburgh (USA)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kuan-yi-gary-lee/" target="_blank">
@@ -26,21 +26,19 @@
   Spoken LLMs ([TASTE](https://github.com/mtkresearch/TASTE-SpokenLM)), Agentic Audio ([Audio-Maestro](https://github.com/gary920209/Audio-Maestro)), Speech-To-Text ([Interspeech 2025 Challenge](https://github.com/gary920209/MultiLingual-TTS-))
 * **Multimodal LLMs**  
   Cross-modal reasoning ([DLCV](https://github.com/gary920209/Deep_Learning_for_Computer_Vision)), Large model fine-tuning & LoRA ([CVPR 2024 Challenge](https://github.com/gary920209/Deep_Learning_for_Computer_Vision))
-* **AI × EdTech**  
-  AI-assisted learning chat-box ([Sophion](https://github.com/Sophion-Team)), Intelligent lecture generation, Entrepreneur, Business development
+* **Software Engineering & System**  
+  AI-assisted learning chat-box ([Sophion](https://github.com/Sophion-Team)), Cloud-native development ([DCmanager-backend](https://github.com/gary920209/DCmanager-backend), TSMC Cloud Dev Course), Champion*2 + Mertis * 1 in Hackathon, Dev-op @ NTU ML autograding system with 1000+ users
 * **ML Systems**  
-  Cloud-native development ([DCmanager-backend](https://github.com/gary920209/DCmanager-backend)), Parallel programming ([Parallel-Sokoban-Solver](https://github.com/gary920209/DCmanager-backend)), Scalable inference (MediaTek)
-* **AI × Semiconductor**  
+   Parallel programming ([Parallel-Sokoban-Solver](https://github.com/gary920209/DCmanager-backend)), Efficient Inference (MediaTek)
+* **AI / Anomaly Detection in Semiconductor**  
   Wafer detection chat-box (NXP), Digital IC agent (Ultrasense system)
-* **Backend**  
-   Champion*2 plus Mertis * 1 in Hackathon, Devop @ ML autograding system with 1000+ users
 
 ## 💼 Experience
 
 * **MediaTek Research** — ML Engineer Intern  
   Co-developed the first speech–text aligned tokenization (TASTE, ICLR 2026)
 * **ASUS AI & Cloud Research** — AI Research Intern  
-  Built the Agentic Audio LLM pipeline (Audio-Maestro) and proposed a training-free adaptive steering vector to mitigate audio model hallucination (Interspeech 2026)
+  Built the Agentic Audio LLM pipeline (Audio-Maestro, ISCSLP 2026) and proposed a training-free adaptive steering vector to mitigate audio model hallucination (Interspeech 2026)
 * **NXP Semiconductors** — ML Engineer Intern  
   Built an AI chatbot for wafer defect analysis
 * **EdTech Startup** — Founding Engineer  
