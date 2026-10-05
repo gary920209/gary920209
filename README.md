@@ -4,7 +4,7 @@
 
 **Researcher @ Carnegie Mellon's School of Computer Science**
 
-ECE Master's student (AI/ML System Concentration) @ Carnegie Mellon University** · NTU EE Alumnus · Pittsburgh (USA)
+ECE Master's student (AI/ML System Concentration) @ Carnegie Mellon University · NTU EE Alumnus · Pittsburgh (USA)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kuan-yi-gary-lee/" target="_blank">
