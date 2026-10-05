@@ -3,6 +3,7 @@
 # Hey 👋 I'm Gary (Kuan-Yi Lee)
 
 **Researcher @ Carnegie Mellon's School of Computer Science**
+
 ECE Master's student (AI/ML System Concentration) @ Carnegie Mellon University** · NTU EE Alumnus · Pittsburgh (USA)
 
 <div align="center">
